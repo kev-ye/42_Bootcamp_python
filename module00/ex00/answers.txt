@@ -1,0 +1,17 @@
+# **************************************************************************** #
+#                                                                              #
+#                                                         :::      ::::::::    #
+#    answers.txt                                        :+:      :+:    :+:    #
+#                                                     +:+ +:+         +:+      #
+#    By: kaye <kaye@student.42.fr>                  +#+  +:+       +#+         #
+#                                                 +#+#+#+#+#+   +#+            #
+#    Created: 2021/04/08 22:56:11 by kaye              #+#    #+#              #
+#    Updated: 2021/04/08 22:57:01 by kaye             ###   ########.fr        #
+#                                                                              #
+# **************************************************************************** #
+
+1. python -m pip list | cut -d " " -f 1
+2. python -m pip list
+3. python -m pip show numpy
+4. python -m pip search "tesseract"
+5. python -m pip list > requirements.txt
